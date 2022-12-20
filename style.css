@@ -1,0 +1,43 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    margin: auto 20px;
+}
+.header-title{
+    color: #000;
+    font-size: 70px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 20px;
+}
+.header-text{
+    color: #000;
+    font-size: 50px;
+    font-weight: 600;
+    width: 600px;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+.header-inner{
+    display: flex;
+}
+.header-btn a{
+    color: #000;
+    font-weight: 800;
+    font-size: 40px;
+    text-decoration: none;
+
+    border: #000 4px solid;
+    border-radius: 11px;
+    padding: 4px 10px;
+    background-color:#fff;
+}
+.phone1{
+    width: 650.51px ;
+    height: 507.06px ;
+    position: absolute;
+
+    right: 200px;
+    bottom: 86px;
+}
